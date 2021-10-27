@@ -63,6 +63,8 @@ class BlankFragment : Fragment(R.layout.fragment_blank) {
     android:text="Hello World!" />
 ```
 
+[Source](https://medium.com/easyread/how-to-simplify-your-android-view-binding-delegation-d07812b2a616)
+
 ---
 
 ```
